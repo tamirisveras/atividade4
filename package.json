@@ -1,5 +1,5 @@
 {
-  "name": "miniprojeto-2",
+  "name": "atividade-4",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -29,7 +29,7 @@
     "production": [
       ">0.2%",
       "not dead",
-      "not op_mini all"
+      "not op_n all"
     ],
     "development": [
       "last 1 chrome version",
